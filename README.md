@@ -60,6 +60,3 @@ Follow these steps to clone and run the project locally.
   - `index.css`: Styling file using Tailwind CSS.
 - `db.json`: Simulated database for JSON Server.
 
-
-
->>>>>>> a07503373a969ba257e7258b14d1a6b461d90f70
